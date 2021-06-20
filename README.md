@@ -5,8 +5,8 @@
 ## Contents
 
 - [ ] JavaScript Intro
-- [ ] script tag
-- [ ] defer keyword
+  - [ ] script tag
+  - [ ] defer keyword
 - [ ] Data Types
 - [ ] Variables and constants
 - [ ] Funtions and Anonymous funtions
